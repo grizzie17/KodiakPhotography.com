@@ -1,0 +1,52 @@
+﻿
+@import url(../_common/packages.css);
+
+
+
+
+
+div.trans
+{
+	background-color: #FFFFFF;
+	filter: alpha(opacity=60);
+	-moz-opacity: 0.60;
+	opacity: 0.60;
+}
+
+#bodycontent p
+{
+	color: black;
+}
+
+
+#bodycontent h2
+{
+	color: #666666;
+}
+
+
+
+
+#bodycontent ul
+{
+	color: black;
+}
+
+
+
+
+.leadzero
+{
+	color: #C0C0C0;
+}
+
+.superscript
+{
+	color: #666666;
+	vertical-align: super;
+	font-size: x-small;
+}
+
+
+
+

@@ -1,0 +1,79 @@
+
+
+#ThumbsFrame
+{
+	position: relative;
+	background-color: #5B0000;
+	overflow: hidden;
+}
+#ThumbsControlPanel
+{
+	position: relative;
+	background-color: #510000;
+	width: 100%;
+	padding: 0;
+	margin: 0;
+}
+
+#ThumbsControlPanel a:link,
+#ThumbsControlPanel a:visited,
+#ThumbsControlPanel a:active
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+	color: white;
+}
+
+#ThumbsNext
+{
+	position: absolute;
+	padding-right: 4px;
+	top: 0px;
+	right: 0px;
+}
+
+#ThumbsPrev
+{
+	position: relative;
+	padding-left: 4px;
+}
+
+#ThumbsControlPanel a:hover
+{
+	color: yellow;
+}
+
+#ThumbsPanel
+{
+	position: relative;
+	background-color: #5B0000;
+}
+
+#DisplayPanel
+{
+	position: relative;
+	overflow: hidden;
+	text-align: center;
+	filter: blendTrans(Duration=1.0);
+}
+
+
+.tempthumb
+{
+	filter: alpha(opacity=30); 
+	-moz-opacity:0.30; 
+	opacity:0.30;
+}
+
+
+.loading
+{
+	margin-top: 40px;
+}
+
+
+
+
+
+
+

@@ -1,0 +1,24 @@
+{
+    "remotePath": "./kodiakphotos.com",
+    "host": "bcghost.mi3-wss9.a2hosting.com",
+    "username": "mi3-wss9\\bcghostc",
+    "password": "170101a2hosting.com",
+    "port": 21,
+    "secure": false,
+    "protocol": "ftp",
+    "uploadOnSave": false,
+    "passive": true,
+    "debug": false,
+    "privateKeyPath": null,
+    "passphrase": null,
+    "ignore": [
+        "\\.vscode",
+        "\\.git",
+        "\\.DS_Store"
+    ],
+    "generatedFiles": {
+        "uploadOnSave": false,
+        "extensionsToInclude": [],
+        "path": ""
+    }
+}

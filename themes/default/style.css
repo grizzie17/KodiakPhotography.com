@@ -1,0 +1,250 @@
+﻿
+@import url(../_common/style.css);
+
+
+
+body
+{
+	margin: 2px;
+	padding: 0;
+	background-image: url('Montage_bkg.jpg');
+}
+
+
+
+.clsHeader
+{
+	font-family: Arial, Helvetica, sans-serif;
+}
+.clsKodiak
+{
+	font-size: 56px;
+	font-weight: bold;
+}
+.clsPhoto
+{
+	font-size: 48px;
+}
+.clsBCG
+{
+	padding-left: 10px;
+	margin: 0;
+	font-size: 12px;
+	margin-top: -10px;
+}
+
+.clsAddress
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: medium;
+}
+
+
+.loading
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: large;
+	font-weight: bold;
+}
+
+
+.copyright
+{
+	text-align: center;
+	font-size: x-small;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #996600;
+	margin-top: 30px;
+	margin-bottom: 2em;
+}
+
+.copyright a,
+.copyright a:link,
+.copyright a:active,
+.copyright a:visited
+{
+	color: #996600;
+}
+
+.copyright a:hover
+{
+	color: red;
+}
+
+
+
+
+
+
+
+
+
+
+.TopNavigation
+{
+	/*background-color: #D7D2B4;*/
+	margin: 0;
+	padding: 0;
+	margin-bottom: 2px;
+}
+
+.TopNavigation ul
+{
+	text-align: center;
+	margin: 0;
+	padding: 0;
+	margin-bottom: 4px;
+}
+
+.TopNavigation ul, .TopNavigation ul li
+{
+	list-style: none;
+}
+
+.TopNavigation ul li
+{
+	display: inline;
+	/*margin-left: 1px;
+	margin-right: 1px;*/
+}
+
+.TopNavigation ul li a
+{
+	color: #85582C;
+	padding: 0;
+	margin-left: 15px;
+	margin-right: 15px;
+	font-size: medium;
+	vertical-align: bottom;
+	font-weight: bold;
+	text-decoration: none;
+	font-family: Arial,Helvetica,Verdana,sans-serif;
+}
+
+.TopNavigation ul li a:link, .TopNavigation ul li a:visited
+{
+	color: #85582C;
+	text-decoration: none;
+}
+
+.TopNavigation ul li a:hover
+{
+	color: #CC0000;
+	text-decoration: none;
+	border-bottom: 4px #CC0000 solid;
+}
+
+.TopNavigation ul li a span
+{
+}
+
+/*\*//*/
+.TopNavigation ul li a
+{
+	display: inline-block;
+	white-space: nowrap;
+	width: 1px;
+}
+/**/
+
+
+
+.TopNavigation ul li.SelectedTab a
+{
+	color: #85582C;
+	font-size: large;
+	font-weight: bold;
+	font-family: Arial,Helvetica,Verdana,sans-serif;
+	text-decoration: none;
+	border-bottom: 4px #996633 solid;
+}
+
+
+.TopNavigation ul li.SelectedTab a:link, 
+.TopNavigation ul li.SelectedTab a:visited, 
+.TopNavigation ul li.SelectedTab a:active
+{
+	color:		#85582C;
+	text-decoration: none;
+}
+
+
+
+
+
+div.TabGroupVert
+{
+	font-family: Arial, Helvetica, sans-serif;
+	background-color: #B88E5C;
+	color: white;
+	text-align: right;
+	padding: 0.5em 0 0.5em 0;
+}
+
+.TabGroupVert ul
+{
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+.TabGroupVert ul li
+{
+	border-bottom: 1px #B88E5C solid;
+	margin: 0;
+}
+
+.TabGroupVert ul li a
+{
+	display: block;
+	padding: 5px 5px 5px 8px;
+	border-left: 10px #8F6B3F solid;
+	border-right: 10px #3C2D1A solid;
+	background-color: #533E24;
+	color: white;
+	text-decoration: none;
+	font-weight: bold;
+	text-decoration: none;
+	font-family: Arial,Helvetica,Verdana,sans-serif;
+}
+
+.TabGroupVert a:visited
+{
+	color: #CCCCCC;
+}
+
+.TabGroupVert a:hover
+{
+	border-left: 10px #FF9900 solid;
+	border-right: 10px #CC6600 solid;
+	color: #000000;
+	background-color: #FFEECC;
+}
+
+
+.TabGroupVert .SelectedTab a
+{
+	color:	#000000;
+	border-left: 10px #FF9900 solid;
+	border-right: 10px #CC6600 solid;
+	background-color: #FFFFFF;
+	font-weight: bold;
+	font-family:	Arial,Helvetica,Verdana,sans-serif;
+	text-decoration: none;
+}
+
+
+.TabGroupVert .SelectedTab a,
+.TabGroupVert .SelectedTab a:visited,
+.TabGroupVert .SelectedTab a:active
+{
+	color:		#000000;
+}
+
+
+
+
+
+
+

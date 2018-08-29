@@ -1,0 +1,13 @@
+﻿!Pref	Actual	Name
+10	2	Huntsville
+9	2	Madison
+3	0	Decatur
+4	1	Athens
+3	1	Gurley
+9	0	Harvest
+5	1	Toney
+1	0	Scottsboro
+1	0	Guntersville
+2	0	Arab
+1	0	Hartselle
+3	0	Hazel Green
