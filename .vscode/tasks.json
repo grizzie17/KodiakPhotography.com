@@ -1,0 +1,17 @@
+{
+	// See https://go.microsoft.com/fwlink/?LinkId=733558
+	// for the documentation about the tasks.json format
+	"version": "2.0.0",
+	"tasks": 
+	[
+		{
+			"label": "kodiakphotos.com:8082",
+			"type": "shell",
+			"command": "explorer",
+			"args": [
+				"http://localhost:8082/${fileBasename}"
+			],
+			"problemMatcher": []
+		}
+	]
+}
