@@ -1,5 +1,5 @@
 {
-    "remotePath": "./kodiakphotos.com",
+    "remotePath": "./kodiakphotography.com",
     "host": "bcghost.mi3-wss9.a2hosting.com",
     "username": "mi3-wss9\\bcghostc",
     "password": "170101a2hosting.com",
@@ -14,7 +14,12 @@
     "ignore": [
         "\\.vscode",
         "\\.git",
-        "\\.DS_Store"
+        "\\.DS_Store",
+        "_vti_.*",
+        "\\.well-known",
+        "**/cache",
+        "\\.user\\.ini",
+        "README\\.md"
     ],
     "generatedFiles": {
         "uploadOnSave": false,
