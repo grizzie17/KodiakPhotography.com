@@ -14,12 +14,17 @@
     "ignore": [
         "\\.vscode",
         "\\.git",
+        "\\.gitignore",
         "\\.DS_Store",
-        "_vti_.*",
-        "\\.well-known",
-        "**/cache",
+        "\\.editorconfig",
         "\\.user\\.ini",
-        "README\\.md"
+        "\\.well-known",
+        "_vti_.*",
+        "App_data/cache/**",
+        "README\\.md",
+        ".*\\.code-workspace",
+        "Thumbs\\.db",
+        "_thumbs"
     ],
     "generatedFiles": {
         "uploadOnSave": false,

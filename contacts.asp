@@ -389,7 +389,7 @@ else
 <p>
 122 Rachel Drive<br>
 Huntsville, AL 35806<br>
-<span class="dial">25 6*7 22*91 28</span><br>
+<span class="dial">25 6*6 79*57 44</span><br>
 <span class="pobox">in fo*Ko di ak Ph o to gr ap hy:c om</span>
 </p>
 </td>
