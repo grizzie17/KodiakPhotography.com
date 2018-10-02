@@ -5,20 +5,20 @@
 	"tasks": 
 	[
 		{
-			"label": "kodiakphotography.com:8082/file",
+			"label": "kodiakphotography.com:8088/file",
 			"type": "shell",
 			"command": "explorer",
 			"args": [
-				"http://localhost:8082/${fileBasename}"
+				"http://localhost:8088/${fileBasename}"
 			],
 			"problemMatcher": []
 		},
 		{
-			"label": "kodiakphotography.com:8082",
+			"label": "kodiakphotography.com:8088",
 			"type": "shell",
 			"command": "explorer",
 			"args": [
-				"http://localhost:8082"
+				"http://localhost:8088"
 			],
 			"problemMatcher": []
 		}
